@@ -1,0 +1,5 @@
+model,dimension,pearson,spearman,r2,rmse,mae
+iCipa reimplementation,,0.2798,0.2502,0.0551,0.3923,0.2867
+HeptadPair engineered HGB,2214.0,0.6352,0.6014,0.3828,0.3148,0.2258
+HeptadPair engineered+ordered HGB,2332.0,0.6572,0.6263,0.4117,0.3072,0.2211
+HeptadPair final E+O+L HGB,2434.0,0.6639,0.6305,0.418,0.306,0.2196

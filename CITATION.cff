@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software/reproducibility snapshot, please cite the associated HeptadPair manuscript."
+title: "HeptadPair: A cyclic register-aware representation for unseen coiled-coil interaction prediction and orthogonal partner recovery"
+type: software
+version: "8.9-phase81-phase82"
+date-released: 2026-09-03
+authors:
+  - family-names: Hu
+    given-names: Guoqing
+  - family-names: Li
+    given-names: Jingyan
+  - family-names: Yau
+    given-names: Stephen S.-T.
+    email: yau@uic.edu
+keywords:
+  - coiled-coil
+  - heptad register
+  - partner specificity
+  - protein interaction prediction
+  - orthogonal partner recovery
+  - AlphaFold2-Multimer

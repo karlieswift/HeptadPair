@@ -1,0 +1,26 @@
+{
+  "package": "HeptadPair GitHub release v8.9 Phase81+Phase82",
+  "date": "2026-09-03",
+  "scientific_frozen": true,
+  "reviewer_ready": true,
+  "github_package_ready": true,
+  "public_release_ready": false,
+  "scientific_checks": {
+    "phase81_full_factorial_gate": "PASS_FULL_FACTORIAL_ABLATION",
+    "phase82_structure_case_selection": "STRUCTURE_CASES_SELECTED_READY_FOR_PDB_SCREEN",
+    "phase82_exact_experimental_pdb_screen": "NO_DIRECT_EXPERIMENTAL_PDB_SEQUENCE_CANDIDATE_USE_MODELED_STRUCTURE_IF_PROCEEDING",
+    "phase82_modeled_structure_gate": "QUALITATIVE_MODELED_STRUCTURE_READY_FOR_INTERFACE_ANNOTATION",
+    "phase82_matched_orientation_gate": "STRICT_MATCHED_PARALLEL_CONTROL_FOUND"
+  },
+  "public_release_metadata_blockers": [
+    "software/content license must be selected by the authors",
+    "final repository URL and archival DOI are not yet assigned",
+    "funding, detailed CRediT roles and final competing-interest wording require author confirmation"
+  ],
+  "interpretation_boundaries": [
+    "AlphaFold2-Multimer coordinates are modeled/predicted illustrations, not experimental structures",
+    "ipTM/pTM are model-confidence measures, not binding-affinity measurements",
+    "Phase82 is a retrospective illustration of frozen retrieval decisions, not an independent benchmark",
+    "the production 2,434-dimensional representation excludes the non-promoted GLMY/path-homology audit"
+  ]
+}
