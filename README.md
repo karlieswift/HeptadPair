@@ -4,7 +4,7 @@
 
 This repository is a compact, reviewer-facing reproducibility snapshot for the v8.9 HeptadPair manuscript revision. It integrates the frozen Phase81 full-factorial E/O/L analysis and the Phase82 modeled partner-specific structural case without reopening model selection.
 
-![HeptadPair representation](figures/main/Figure1_Cyclic_RegisterAware_TypedFour_DualCenter.png)
+![HeptadPair representation](docs/Figure1_Cyclic_RegisterAware_TypedFour_DualCenter.pdf)
 
 ## What changed in v8.9
 
