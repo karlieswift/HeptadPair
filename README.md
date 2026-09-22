@@ -62,12 +62,4 @@ See `docs/REPRODUCIBILITY.md` for the full hierarchy of frozen-output verificati
 
 Processed source tables, frozen revision results, revision scripts and modeled Phase82 outputs needed for audit are included. Large raw third-party datasets and the complete historical training repository are not duplicated; obtain upstream public data from the sources cited in the manuscript.
 
-## Release status
 
-`PUBLIC_RELEASE_GATE.json` reports:
-
-- `reviewer_ready = true`
-- `github_package_ready = true`
-- `public_release_ready = false`
-
-The remaining blockers are author-controlled release metadata, especially license selection, repository/archival identifiers, and final administrative statements. No license is inferred by this package.
